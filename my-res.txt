@@ -4,6 +4,8 @@ my-res.2020.txt
    - angular
    -react
  - infrastructure
+   - cable coper
+   - fiber optic
  - cloud server
  - networking
  - vlog
