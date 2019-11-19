@@ -1,7 +1,11 @@
 my-res.2020.txt
  - sokonol
  - framework
+   - angular
+   -react
  - infrastructure
+   - cable coper
+   - fiber optic
  - cloud server
  - networking
  - vlog
