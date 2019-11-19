@@ -2,3 +2,5 @@ my-res.2020.txt
  - sokonol
  - framework
  - infrastructure
+ - cloud server
+ - networking
