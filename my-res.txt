@@ -1,7 +1,10 @@
 my-res.2020.txt
  - sokonol
  - framework
+   - expressjs
  - infrastructure
+   - coper cable
  - cloud server
+   - docker
  - networking
  - vlog
