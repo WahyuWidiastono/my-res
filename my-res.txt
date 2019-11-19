@@ -1,6 +1,8 @@
 my-res.2020.txt
  - sokonol
  - framework
+   - angular
+   -react
  - infrastructure
  - cloud server
  - networking
